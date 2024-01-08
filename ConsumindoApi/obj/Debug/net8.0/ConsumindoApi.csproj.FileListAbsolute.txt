@@ -1,0 +1,17 @@
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfoInputs.cache
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfo.cs
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.exe
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.deps.json
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.runtimeconfig.json
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.dll
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.pdb
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.dll
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\refint\ConsumindoApi.dll
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.pdb
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.genruntimeconfig.cache
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ref\ConsumindoApi.dll
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.csproj.AssemblyReference.cache
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Estudos\ConsumindoApi\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.csproj.CopyComplete
